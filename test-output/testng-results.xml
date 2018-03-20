@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Relayr Search TestSuite" duration-ms="69845" started-at="2018-03-20T10:09:57Z" finished-at="2018-03-20T10:11:07Z">
+    <groups>
+    </groups>
+    <test name="Search Test" duration-ms="69845" started-at="2018-03-20T10:09:57Z" finished-at="2018-03-20T10:11:07Z">
+      <class name="com.relayr.test.Search">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.relayr.test.Search@56f4468b]" name="beforeTest" is-config="true" duration-ms="18148" started-at="2018-03-20T15:39:57Z" finished-at="2018-03-20T15:40:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="validateAutoSuggestions()[pri:0, instance:com.relayr.test.Search@56f4468b]" name="validateAutoSuggestions" duration-ms="5128" started-at="2018-03-20T15:40:16Z" finished-at="2018-03-20T15:40:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAutoSuggestions -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.relayr.test.Search@56f4468b]" name="afterMethod" is-config="true" duration-ms="2356" started-at="2018-03-20T15:40:21Z" finished-at="2018-03-20T15:40:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.relayr.test.Search@56f4468b]" name="beforeTest" is-config="true" duration-ms="9839" started-at="2018-03-20T15:40:23Z" finished-at="2018-03-20T15:40:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="validateInvalidSearchText()[pri:0, instance:com.relayr.test.Search@56f4468b]" name="validateInvalidSearchText" duration-ms="2344" started-at="2018-03-20T15:40:33Z" finished-at="2018-03-20T15:40:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInvalidSearchText -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.relayr.test.Search@56f4468b]" name="afterMethod" is-config="true" duration-ms="2308" started-at="2018-03-20T15:40:35Z" finished-at="2018-03-20T15:40:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.relayr.test.Search@56f4468b]" name="beforeTest" is-config="true" duration-ms="8968" started-at="2018-03-20T15:40:38Z" finished-at="2018-03-20T15:40:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="validateSearh()[pri:0, instance:com.relayr.test.Search@56f4468b]" name="validateSearh" duration-ms="4473" started-at="2018-03-20T15:40:47Z" finished-at="2018-03-20T15:40:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearh -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.relayr.test.Search@56f4468b]" name="afterMethod" is-config="true" duration-ms="2334" started-at="2018-03-20T15:40:51Z" finished-at="2018-03-20T15:40:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.relayr.test.Search@56f4468b]" name="beforeTest" is-config="true" duration-ms="9225" started-at="2018-03-20T15:40:53Z" finished-at="2018-03-20T15:41:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="validateSpellingSuggestion()[pri:0, instance:com.relayr.test.Search@56f4468b]" name="validateSpellingSuggestion" duration-ms="2591" started-at="2018-03-20T15:41:03Z" finished-at="2018-03-20T15:41:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSpellingSuggestion -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.relayr.test.Search@56f4468b]" name="afterMethod" is-config="true" duration-ms="2105" started-at="2018-03-20T15:41:05Z" finished-at="2018-03-20T15:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.relayr.test.Search -->
+    </test> <!-- Search Test -->
+  </suite> <!-- Relayr Search TestSuite -->
+</testng-results>

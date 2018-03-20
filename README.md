@@ -16,8 +16,11 @@ Step 4: Once all the jars are added, delete the jar needed folder from the proje
 
 Step 5: Refresh the project
 
-Step 6: Running from Eclipse or IDE: Simple click on the run button from the IDE. 
-        Running from the command prompt: cd <rootFolder of the project>
-                                         java -cp <rootFolder>\lib\*;<rootFolder>\bin org.testng.TestNG testng.xml
+Step 6: Running from Eclipse or IDE: 
+        Simple click on the run button from the IDE. 
+        
+        Running from the command prompt:
+        cd C:\*rootFolder*
+        java -cp *rootFolder*\lib\*;*rootFolder*\bin org.testng.TestNG testng.xml
                                          
 Step 7: Now you should be able to run the code. You can find the results in testOutput folder.
